@@ -19,7 +19,7 @@ export default {
   // Class description, visible during character creation
   description: {
     en: 'Mages deal very heavy large scale Area of Effect damage, while also providing utility through slowing targets with their ice based magic.',
-    ru: 'Маги наносят большой урон по области, а так же приносят пользу благодаря замедлению целей своей магией льда',
+    ru: 'Маги наносят большой урон по области, а так же приносят пользу благодаря замедлению целей своей магией льда.',
     sv: 'Magiker gör mycket hög areal skada och har även hjälp av sin is baserade magi för att kunna göra sina motståndare långsamma.',
     de: 'Magier verursachen sehr großen Flächenschaden und sind gleichzeitig nützlich, da sie Ziele mit ihrer auf Eis basierenden Magie verlangsamen.',
     es: 'Los magos usan los poderes del invierno para ralentizar y hacer daño massivo a los sus enemigos.',
